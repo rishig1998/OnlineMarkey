@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         var name="rishi"
         var name1="mukesh"
+        var name2="shivani"
     }
 }
