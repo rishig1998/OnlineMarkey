@@ -21,7 +21,7 @@ object Dataservice {
         product("broundbackh","hat1","$10"),
         product("blackhat","hat2","$12"),
         product("whitehat","hat3","$15"),
-        product("bluewhitehat","hat4","$11"),
+        product("bluewhitehat","hat4","$11")
 
         )
     val hoodie= linkedSetOf(
@@ -29,8 +29,6 @@ object Dataservice {
         product("pinkhoodie","hoodie2","$26"),
         product("grayhoodie","hoodie3","$27"),
         product("fullblackhoodie","hoodie4","$30")
-
-
 
     )
 }
