@@ -5,10 +5,17 @@ import com.example.onlinemarket.model.product
 
 object Dataservice {
     val categories= listOf(
-        category("SHIRTS","shirtimage"),
-        category("HOODIES","hoodieimage"),
-        category("DIGITALGOODS","digitalgoodsimage"),
-        category("HATS","hatimge")
+        category("SHIRTS", "shirtimage"),
+        category("HOODIES", "hoodieimage"),
+        category("HATS", "hatimage"),
+        category("DIGITAL", "digitalgoodsimage"),
+        category("SHIRTS", "shirtimage"),
+        category("HOODIES", "hoodieimage"),
+        category("HATS", "hatimage"),
+        category("DIGITAL", "digitalgoodsimage")
+
+
+
     )
     val shirt= listOf(
         product("balckshirt","shirt1","$18"),
